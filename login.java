@@ -2,7 +2,7 @@ public class SimpleVariables {
 
     public static void main(String[] args) {
         // Declaring and initializing an integer variable
-        int age = 50;
+        int age = 30;
 
         // Declaring and initializing a string variable
         String name = "Alice";
